@@ -7,4 +7,4 @@ There is a .png file called config in glasshish.png in the WEB-INF directory for
 Login info :  username = mamadou ,
               password = admin
 
-or send me an email diarraoa@gmail.com for mor info. 
+
